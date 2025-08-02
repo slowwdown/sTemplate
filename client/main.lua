@@ -1,0 +1,2 @@
+-- Client-side script for sTemplate
+-- Add your client-side code here 

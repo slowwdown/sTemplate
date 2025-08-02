@@ -1,0 +1,2 @@
+-- Server-side script for sTemplate
+-- Add your server-side code here 

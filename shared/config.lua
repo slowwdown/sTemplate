@@ -1,0 +1,2 @@
+-- Shared configuration for sTemplate
+-- Add your shared configuration here 
